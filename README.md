@@ -6,5 +6,5 @@ Learning Objectives : Upon completing this project, learners will be able to
 ● Understand the fundamentals of structured EDA using libraries numpy, pandas, matplotlib, and seaborn.
 ● Identify and handle missing or inconsistent data. 
 ● Explore correlations between variables like cost, rating, and popularity.
-● Perform feature engineering (e.g., creating a "region" column) 
+● Perform feature engineering (e.g creating a "region" column) 
 ● Use Python to generate visual insights from real-world data.
